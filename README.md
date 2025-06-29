@@ -18,3 +18,8 @@ A simple, clean, and responsive To-Do List application built with **React** and 
 - **Tailwind CSS** (for modern styling)
 - **uuid** (for generating unique task IDs)
 - **React Icons** (for buttons/icons)
+
+
+🤝 Contributing
+
+Pull requests are welcome! If you have suggestions for improvements, feel free to open an issue or submit a PR.
