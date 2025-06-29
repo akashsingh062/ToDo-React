@@ -20,6 +20,6 @@ A simple, clean, and responsive To-Do List application built with **React** and 
 - **React Icons** (for buttons/icons)
 
 
-🤝 Contributing
+##🤝 Contributing
 
 Pull requests are welcome! If you have suggestions for improvements, feel free to open an issue or submit a PR.
